@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 I'm Robin, Freelancer in Berlin.<br>💻 Building robust and efficient software (and creating bugs) since 2015<br>✨ Experienced in TypeScript, React, Golang and Python<br>📚 Currently exploring: Neovim, Game Development, and refining my Linux setup</p>
+<p align="left">👋 I'm Robin, Freelancer in Berlin.<br>💻 Building robust and efficient software <i>(and creating bugs)</i> since 2015<br>✨ Experienced in TypeScript, React, Golang and Python<br>📚 Currently exploring: Neovim, Game Development and refining my Linux setup</p>
 
 ###
 
